@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Anastasiia Rakhmatova](https://up.htmlacademy.ru/nodejs-api/5/user/1110353).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Поклонский](https://up.htmlacademy.ru/nodejs-api/5/user/2210683).
 
 ---
 
